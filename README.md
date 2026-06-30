@@ -55,36 +55,29 @@ My interests include:
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sadeemalm2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sadeemalm2005&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeemalm2005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeemalm2005&layout=compact&hide_border=true"/>
 
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=sadeemalm2005&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sadeemalm2005&hide_border=true"/>
 
 </p>
-
----
 
 ## 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadeemalm2005&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadeemalm2005&bg_color=ffffff&color=6A5ACD&line=6A5ACD&point=9370DB&area=true&area_color=E6E6FA&hide_border=true"/>
 
 </p>
-
----
 
 ## 📫 Connect With Me
 
